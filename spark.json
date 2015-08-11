@@ -1,0 +1,8 @@
+{
+  "name": "Spark-Core-IRremote",
+  "author": "qwertzguy",
+  "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+  "version": "0.0.1",
+  "description": "A modified version of Arduino-IRremote for the Spark Core v1.0 and compatible with the Spark Core web IDE.
+"
+}
